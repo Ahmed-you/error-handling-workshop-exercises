@@ -4,7 +4,9 @@
   "description": "",
   "main": "exercise.js",
   "scripts": {
-    "test": "node ./approach1Exercise/exercise.test.js"
+    "test": "node ./approach1Exercise/exercise.test.js",
+    "test2": "node ./approach2Exercise/exercise.test.js",
+    "test3": "node ./approach3Exercise/exercise.test.js"
   },
   "repository": {
     "type": "git",
